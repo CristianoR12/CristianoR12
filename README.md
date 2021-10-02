@@ -1,5 +1,9 @@
 ### Hi there, my name is Cristiano Rausse, welcome to my GitHub profile!
 
+- 🔭 I’m currently working with projects related with Flask and Python;
+- 🌱 I’m currently learning Flask, Python together with: SQLAlchemy, CSS(Bootstrap), html;
+- 📫 How to reach me: You can follow the link for my LinkedIn profile or my email: cristiano.rausse@gmail.com
+
 <div>
   <a href="https://github.com/CristianoR12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoR12&layout=compact&langs_count=7&theme=prussian"/>
