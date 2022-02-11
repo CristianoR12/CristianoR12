@@ -2,7 +2,7 @@
 
 - 🔭 I am most recently working with projects related with Flask and Python;
 - 🌱 I am most recently learning Flask, Python together with: SQLAlchemy, CSS(Bootstrap) and HTML;
-- 📫 How to reach me: You can follow the link for my LinkedIn profile or my email: cristiano.rausse@gmail.com
+- 📫 How to reach me: You can follow the link for my LinkedIn profile below or my email: cristiano.rausse@gmail.com
 
 <div>
   <a href="https://github.com/CristianoR12">
